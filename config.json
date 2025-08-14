@@ -11,6 +11,11 @@
          "name": "黑木耳",
          "detail": "https://heimuer.tv"
        },
+	"doubanyun": {
+         "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+         "name": "豆瓣云",
+         "detail": "https://dbzy.tv/index.php/help"
+       },
        "ruyi": {
          "api": "https://cj.rycjapi.com/api.php/provide/vod",
          "name": "如意资源"
