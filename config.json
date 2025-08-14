@@ -13,8 +13,7 @@
        },
 	"doubanyun": {
          "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
-         "name": "豆瓣云",
-         "detail": "https://dbzy.tv/index.php/help"
+         "name": "豆瓣云"
        },
        "ruyi": {
          "api": "https://cj.rycjapi.com/api.php/provide/vod",
